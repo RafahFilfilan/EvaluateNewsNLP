@@ -29,7 +29,7 @@ Then you have to install the following packages
 ## Getting started
 `cd` into your folder and run:
 `npm install`
-and then install the appropiate plugins such as:
+and then install the appropiate plugins such as:<br />
 `npm i -D @babel/core @babel/preset-env babel-loader`<br />
 `npm i -D style-loader node-sass css-loader sass-loader`<br />
 `npm i -D clean-webpack-plugin`<br />
