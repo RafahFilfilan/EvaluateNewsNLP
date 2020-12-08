@@ -30,12 +30,12 @@ Then you have to install the following packages
 `cd` into your folder and run:
 `npm install`
 and then install the appropiate plugins such as:
-`npm i -D @babel/core @babel/preset-env babel-loader`
-`npm i -D style-loader node-sass css-loader sass-loader`
-`npm i -D clean-webpack-plugin`
-`npm i -D html-webpack-plugin`
-`npm i -D mini-css-extract-plugin`
-`npm i -D optimize-css-assets-webpack-plugin terser-webpack-plugin`
+`npm i -D @babel/core @babel/preset-env babel-loader`<br />
+`npm i -D style-loader node-sass css-loader sass-loader`<br />
+`npm i -D clean-webpack-plugin`<br />
+`npm i -D html-webpack-plugin`<br />
+`npm i -D mini-css-extract-plugin`<br />
+`npm i -D optimize-css-assets-webpack-plugin terser-webpack-plugin`<br />
 Then go to https://www.meaningcloud.com/ and sign up for an API to use, create a .env file on the root file and type "API_KEY="
 Then for testing, install Jest
-`npm install --save-dev jest`
+`npm install --save-dev jest`<br />
