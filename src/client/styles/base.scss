@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+	background: linear-gradient(to bottom left, #F4750C 5%, #D81B5C 39%, #A82F63 66%, #78157E 91%);
+	color: rgb(20,20,20);
+	font-family: 'Poppins', sans-serif;
+}
+
+main {
+    flex: 2;
+}
+
+section {
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+
+#agreement, #subjectivity, #confidence, #irony {
+	line-height: 30px;
+	color: yellow;
+}
